@@ -15,7 +15,7 @@ const astros = [
   {
     title: 'Mês 2',
     subtitle: 'Planeta da beleza',
-    message: 'Descobri um mundo onde tua beleza deixa meus dia mais lindo.',
+    message: 'Descobri um mundo onde tua beleza deixa meus dias mais lindos.',
     kind: 'planet',
     size: 135,
     decor: 'hearts',
